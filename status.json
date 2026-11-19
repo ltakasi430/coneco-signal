@@ -1,1 +1,1 @@
-{"v":1,"event":"pull_request","action":"opened","pr":"123","sha":"e1cf28362813e212ba6cd9a796d1f3553628a332","ref":"refs/pull/123/merge","ts":"2026-11-19T13:33:31Z"}
+{"v":1,"event":"push","action":"","pr":"","sha":"c0d21cef77b1d82d050997d0e732c1da9ebeda9f","ref":"refs/heads/wip/full-coneco-source-20261101","ts":"2026-11-19T14:08:44Z"}
